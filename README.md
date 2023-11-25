@@ -12,7 +12,7 @@
 - 프로젝트 구현기술: html/css/js/bootstrap,Java,jsp,servlet,mybatis,tiles,git, oracle DB
 - 멤버: 전민교, 서영희, 김준성, 김은별
 
-![개요](https://github.com/dev-min2/PetGoodsProject/assets/82199372/0146888c-8309-4984-891d-92b54fe46fce)
+![image](https://github.com/dev-min2/PetGoodsProject/assets/82199372/156a889f-7e3c-41ae-935f-cd2a8c903332)
 
 ## DB 구성도
 ![db구성도](https://github.com/dev-min2/PetGoodsProject/assets/82199372/ba2589c2-6426-4e9e-bce4-455332cb40ca)

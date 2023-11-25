@@ -1,4 +1,4 @@
-![image](https://github.com/dev-min2/PetGoodsProject/assets/82199372/1e8168e0-819d-4f6e-98b6-dcb635cdb6da)# 마이디어 펫(반려용품 판매 쇼핑몰)
+# 마이디어 펫(반려용품 판매 쇼핑몰)
 **예담 중간프로젝트**
 
 ## 목차

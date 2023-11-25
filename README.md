@@ -2,7 +2,8 @@
 **예담 중간프로젝트**
 
 ## 목차
-  - [프로젝트 개요](#프로젝트-개요) 
+  - [프로젝트 개요](#프로젝트-개요)
+  - [DB구성도](#DB-구성도)
   - [프로젝트 구현 요약](#프로젝트-구현-요약)
 
 ## 프로젝트 개요
@@ -12,10 +13,11 @@
 - 멤버: 전민교, 서영희, 김준성, 김은별
 
 ![개요](https://github.com/dev-min2/PetGoodsProject/assets/82199372/0146888c-8309-4984-891d-92b54fe46fce)
-DB구성도
+
+## DB 구성도
 ![db구성도](https://github.com/dev-min2/PetGoodsProject/assets/82199372/ba2589c2-6426-4e9e-bce4-455332cb40ca)
 
-## 프로젝트-구현-요약
+## 프로젝트 구현 요약
 ### 1. 메인페이지
 ![image](https://github.com/dev-min2/PetGoodsProject/assets/82199372/1921d02d-209a-426d-8107-2fc3ba3bc1e9)
 ![image](https://github.com/dev-min2/PetGoodsProject/assets/82199372/331b992e-9967-4d0e-b646-4f6b6318770d)
